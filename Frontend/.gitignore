@@ -10,7 +10,7 @@ __pycache__/
 *.pot
 *.pyc
 *.pyo
-*.pyd
+*.pyd0
 __pycache__/
 db.sqlite3
 media/
